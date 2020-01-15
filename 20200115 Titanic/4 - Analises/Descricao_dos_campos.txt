@@ -1,0 +1,12 @@
+PassengerId, - id do passageiro
+Survived, - sobreviveu ou não - 1 ou 0
+Pclass, - quanto maior a classe mais alto a pessoa estava no navio
+Name, - nome
+Sex, - sexo
+Age, - idade
+SibSp, - se tinha filhos presentes
+Parch, - ?
+Ticket, - númeor ticket
+Fare, - valor da passagem
+Cabin, - cabine
+Embarked - lugar de embarque
